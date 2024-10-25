@@ -4,6 +4,8 @@ The collection of assignments I completed in my CENG336 Embedded Systems course,
 
 THE: Take Home Exam
 
+Side note: I misplaced my solution for the2.
+
 
 ## How to run
 
